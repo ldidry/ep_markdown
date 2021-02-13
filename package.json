@@ -18,5 +18,10 @@
   "peerDependencies": {
     "ep_headings2": "*"
   },
+  "peerDependenciesMeta": {
+    "ep_headings2": {
+      "optional": true
+    }
+  },
   "license": "Apache-2.0"
 }
